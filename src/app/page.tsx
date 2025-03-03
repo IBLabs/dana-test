@@ -1,3 +1,5 @@
+//test
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-red-50 to-white dark:from-red-950 dark:to-gray-900">
